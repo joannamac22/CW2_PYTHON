@@ -1,0 +1,3 @@
+ruby,user,$2b$12$j5nnP602KBayGo0HkT8U.O8C1M9gFuULdeIHLZeD1nCrjm3pANaE2
+gaju,user,$2b$12$dgVh6VYeMEsGoNnz3KRvbO//ltT22OHP8yGSG1VjFCjPxXJXLOcD6
+jay,user,$2b$12$l6kAeMwfw3fLsl2sORi.fOSo893rHWF5lqvMWU2QhYORUmWkrkHCi
