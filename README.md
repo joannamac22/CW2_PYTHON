@@ -61,8 +61,8 @@ Users cannot perform administrative tasks.
 # Logging in as an Administrator
 
 1. Open the login page.
-2. Enter an administrator username.
-3. Enter the administrator password.
+2. Enter an administrator username(Joanna)
+3. Enter the administrator password(Joanna123456)
 4. Click **Login**.
 
 The administrator has full access to the platform.
