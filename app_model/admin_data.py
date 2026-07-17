@@ -1,10 +1,7 @@
 
 #Admin-only database that provides functions for IT tickets, cyber incidents, and dataset metadata.
-#All functions return (success: bool, message: str).
-
 
 from datetime import datetime
-
 
 #IT tickets
 def add_it_ticket(
