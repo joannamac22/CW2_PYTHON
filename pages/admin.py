@@ -17,7 +17,7 @@ st.title("🛠️ Admin Panel")
 
 conn = get_connection()
 
-#Tabs 
+#TABS
 tab_users, tab_tickets, tab_incidents, tab_metadata = st.tabs([
     "👥 Users",
     "🎫 IT Tickets",

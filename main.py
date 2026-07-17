@@ -108,6 +108,7 @@ def user_menu():
         else:
             print("Invalid option.")
 
+#calling all the functions
 def main():
     while True:
         print("\nWelcome to the system!!")
